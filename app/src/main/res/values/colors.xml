@@ -9,6 +9,7 @@
     <!--设计切图xml资源数值-->
     <!--参考见美工切图-->
     <color name="bottombarbackground">#FEFEFF</color>
+    <color name="statisticbarbackground">#FEFEFF</color>
     <color name="bottombartint">#4CD964</color>
     <color name="listItemTitle">#4D4D4D</color>
     <color name="listItemSubtitle">#C7C9CC</color>

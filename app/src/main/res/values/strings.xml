@@ -4,4 +4,8 @@
     <string name="bottombarcell_second_name">已处理</string>
     <string name="bottombarcell_third_name">统  计</string>
     <string name="bottombarcell_forth_name">店  铺</string>
+
+    <string name="statisticbarcell_first_name">店铺总体经营情况</string>
+    <string name="statisticbarcell_second_name">菜品销售情况</string>
+    <string name="statisticbarcell_third_name">评价统计</string>
 </resources>
