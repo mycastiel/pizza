@@ -3,4 +3,6 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="bottombar_cell_width">36dp</dimen>
+    <dimen name="solvedbar_txt_width">50dp</dimen>
+    <dimen name="solvedbar_cell_width">36dp</dimen>
 </resources>
